@@ -1,2 +1,5 @@
 # Controllable-Mario-Mod
-A mod I created for a game called people playground in 2023. This was made as a joke so not very clean code wise.
+A mod I created for a game called people playground in 2023.
+
+I made this in about a day, then updated it throughout the year before stopping.
+
